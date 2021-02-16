@@ -1,0 +1,104 @@
+
+body{
+  background-color:#d4f3ef;
+  margin:0;
+
+}
+
+
+.codeimg{
+  height: 40%;
+  position: relative;
+  margin-bottom: 30px;
+  left:500px;
+}
+.headerpart{
+  text-align: center;
+  color: black;
+  font-style:italic;
+  height:150px;
+  border: black solid 10px;
+  padding:10px;
+  background-image: url("background.jpg");
+  background-size: 100% 100%;
+}
+
+.topimage{
+  position:absolute;
+  right:20px;
+  height:30PX;
+  margin-top: 100px;
+}
+h1{
+  margin:0;
+  margin-top: 10px;
+  font-family: "Lucida Console", Courier, monospace;
+  text-shadow: 5px 5px 10px red;
+}
+h2{
+  font-size: 2.0rem;
+  text-align: center;
+  color:black;
+  text-decoration: underline;
+
+}
+.mytop{
+  font-size: 2.0rem;
+  border: 5px solid black;
+  text-align: center;
+  color:black;
+  text-decoration: underline;
+  background-color: #05ffb0;
+}
+.top{
+  display:inline-block;
+  position: relative;
+  bottom: 50px;
+  text-decoration: underline;
+  text-overflow: inherit;
+  font-size: 30px;
+  font-family: "Lucida Console", Courier, monospace;
+  margin-top: 80px;
+}
+
+table{
+  border:5px black solid;
+  text-align: center;
+  background-color: lightgreen;
+}
+.prakash{
+  float:right;
+  text-decoration: Solid;
+}
+
+.sideBorder{
+  height: 20px;
+  border-width: 10px;
+  border-left-style: solid;
+  color: black;
+  padding-left: 10px;
+}
+.seleniumimage{
+  float:left;
+}
+
+.ListSize {
+font-size: 25px;
+text-align: center;
+}
+div.middle-container{
+  text-align: center;
+  line-height: 1;
+}
+div.bottom-container{
+  border-top: black 10px solid;
+  text-align: center;
+  padding-top: 10px;
+  margin-top: 10px;
+}
+.skill-row{
+  text-align: left;
+}
+.my-Education{
+    text-align: left;
+}
